@@ -3,7 +3,13 @@ gradle-ssh-deployment
 
 Deployment via "rolling update" implemented with gradle ssh plugin.
 
-See also http://gradle-ssh-plugin.github.io
+A simple but adequate solution for Micro Service Deployment Pipelines.
+
+See also
+
+- http://gradle-ssh-plugin.github.io
+- https://speakerdeck.com/timmo/micro-services-die-verheissungen-konnten-eintreten
+
 
 ```
 remotes {
